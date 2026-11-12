@@ -1,0 +1,25 @@
+﻿pergunta;id;modelo;saida;contem_orientacao;contem_aviso;contem_url;aviso_em_linha_propria;mostra_id
+Quero a segunda via do CPF.;CPF03;A;"Abra o serviço “Obter Cartão de CPF”. Selecione a opção de emissão indicada para o seu caso e salve ou imprima o comprovante de inscrição. O serviço também explica como obter atendimento se você esqueceu o número do CPF.
+Fonte: Receita Federal • Obter cartão de CPF (05/11/2026)
+https://www.gov.br/pt-br/servicos/obter-cartao-de-cpf";1;1;1;0;0
+Quero a segunda via do CPF.;CPF03;B;"[CPF03] Como imprimir o comprovante de inscrição no CPF?
+Orientação: Abra o serviço “Obter Cartão de CPF”. Selecione a opção de emissão indicada para o seu caso e salve ou imprima o comprovante de inscrição.
+Atenção: O serviço também explica como obter atendimento se você esqueceu o número do CPF.
+Fonte: Receita Federal • Obter cartão de CPF | Conferida em 05/11/2026
+https://www.gov.br/pt-br/servicos/obter-cartao-de-cpf";1;1;1;1;1
+Perdi a senha do gov.br.;GOV02;A;"Na tela de acesso do gov.br, informe o CPF e avance. Selecione “Esqueci minha senha” e siga um dos métodos de recuperação oferecidos. As opções dependem do cadastro. Use a página de ajuda se você perdeu acesso aos meios de recuperação.
+Fonte: Governo Digital • Recuperar senha da conta gov.br (05/11/2026)
+https://www.gov.br/governodigital/pt-br/acessibilidade-e-usuario/atendimento-gov.br/duvidas-na-conta-gov.br/recuperar-senha-da-conta-gov.br/recuperar-senha-da-conta-gov.br/";1;1;1;0;0
+Perdi a senha do gov.br.;GOV02;B;"[GOV02] Esqueci a senha da conta gov.br. Como recuperar?
+Orientação: Na tela de acesso do gov.br, informe o CPF e avance. Selecione “Esqueci minha senha” e siga um dos métodos de recuperação oferecidos.
+Atenção: As opções dependem do cadastro. Use a página de ajuda se você perdeu acesso aos meios de recuperação.
+Fonte: Governo Digital • Recuperar senha da conta gov.br | Conferida em 05/11/2026
+https://www.gov.br/governodigital/pt-br/acessibilidade-e-usuario/atendimento-gov.br/duvidas-na-conta-gov.br/recuperar-senha-da-conta-gov.br/recuperar-senha-da-conta-gov.br/";1;1;1;1;1
+Onde voto?;ELE01;A;"Abra o e-Título e procure “Onde Votar”. Essa opção mostra o endereço do local de votação. A página do TSE explica como consultar a informação no aplicativo. Confira o endereço exibido para a sua inscrição no canal da Justiça Eleitoral.
+Fonte: TSE • Perguntas frequentes sobre o e-Título (05/11/2026)
+https://www.tse.jus.br/servicos-eleitorais/e-titulo-perguntas-frequentes";1;1;1;0;0
+Onde voto?;ELE01;B;"[ELE01] Como consultar meu local de votação?
+Orientação: Abra o e-Título e procure “Onde Votar”. Essa opção mostra o endereço do local de votação. A página do TSE explica como consultar a informação no aplicativo.
+Atenção: Confira o endereço exibido para a sua inscrição no canal da Justiça Eleitoral.
+Fonte: TSE • Perguntas frequentes sobre o e-Título | Conferida em 05/11/2026
+https://www.tse.jus.br/servicos-eleitorais/e-titulo-perguntas-frequentes";1;1;1;1;1

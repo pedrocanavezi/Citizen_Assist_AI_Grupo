@@ -1,0 +1,309 @@
+[
+  {
+    "caso": "Q01",
+    "categoria": "direta",
+    "entrada": "Como faço meu primeiro CPF?",
+    "estado_esperado": "resposta",
+    "ids_esperados": [
+      "CPF01"
+    ]
+  },
+  {
+    "caso": "Q02",
+    "categoria": "direta",
+    "entrada": "Como consultar a situação do CPF?",
+    "estado_esperado": "resposta",
+    "ids_esperados": [
+      "CPF02"
+    ]
+  },
+  {
+    "caso": "Q03",
+    "categoria": "direta",
+    "entrada": "Como imprimir o comprovante de inscrição no CPF?",
+    "estado_esperado": "resposta",
+    "ids_esperados": [
+      "CPF03"
+    ]
+  },
+  {
+    "caso": "Q04",
+    "categoria": "direta",
+    "entrada": "Como atualizar meu endereço no CPF?",
+    "estado_esperado": "resposta",
+    "ids_esperados": [
+      "CPF04"
+    ]
+  },
+  {
+    "caso": "Q05",
+    "categoria": "direta",
+    "entrada": "Como validar um comprovante de situação cadastral do CPF?",
+    "estado_esperado": "resposta",
+    "ids_esperados": [
+      "CPF05"
+    ]
+  },
+  {
+    "caso": "Q06",
+    "categoria": "direta",
+    "entrada": "Como criar minha conta gov.br?",
+    "estado_esperado": "resposta",
+    "ids_esperados": [
+      "GOV01"
+    ]
+  },
+  {
+    "caso": "Q07",
+    "categoria": "direta",
+    "entrada": "Esqueci a senha da conta gov.br. Como recuperar?",
+    "estado_esperado": "resposta",
+    "ids_esperados": [
+      "GOV02"
+    ]
+  },
+  {
+    "caso": "Q08",
+    "categoria": "direta",
+    "entrada": "Como aumentar o nível da conta gov.br?",
+    "estado_esperado": "resposta",
+    "ids_esperados": [
+      "GOV03"
+    ]
+  },
+  {
+    "caso": "Q09",
+    "categoria": "direta",
+    "entrada": "Como ativar a verificação em duas etapas no gov.br?",
+    "estado_esperado": "resposta",
+    "ids_esperados": [
+      "GOV04"
+    ]
+  },
+  {
+    "caso": "Q10",
+    "categoria": "direta",
+    "entrada": "Onde vejo os dispositivos autorizados no gov.br?",
+    "estado_esperado": "resposta",
+    "ids_esperados": [
+      "GOV05"
+    ]
+  },
+  {
+    "caso": "Q11",
+    "categoria": "direta",
+    "entrada": "Como consultar meu local de votação?",
+    "estado_esperado": "resposta",
+    "ids_esperados": [
+      "ELE01"
+    ]
+  },
+  {
+    "caso": "Q12",
+    "categoria": "direta",
+    "entrada": "Como consultar a situação do título de eleitor?",
+    "estado_esperado": "resposta",
+    "ids_esperados": [
+      "ELE02"
+    ]
+  },
+  {
+    "caso": "Q13",
+    "categoria": "direta",
+    "entrada": "Como emitir a certidão de quitação eleitoral?",
+    "estado_esperado": "resposta",
+    "ids_esperados": [
+      "ELE03"
+    ]
+  },
+  {
+    "caso": "Q14",
+    "categoria": "direta",
+    "entrada": "Como obter a certidão de crimes eleitorais?",
+    "estado_esperado": "resposta",
+    "ids_esperados": [
+      "ELE04"
+    ]
+  },
+  {
+    "caso": "Q15",
+    "categoria": "direta",
+    "entrada": "Onde solicitar o primeiro título de eleitor?",
+    "estado_esperado": "resposta",
+    "ids_esperados": [
+      "ELE05"
+    ]
+  },
+  {
+    "caso": "Q16",
+    "categoria": "reformulação",
+    "entrada": "Preciso da segunda via do CPF.",
+    "estado_esperado": "resposta",
+    "ids_esperados": [
+      "CPF03"
+    ]
+  },
+  {
+    "caso": "Q17",
+    "categoria": "reformulação",
+    "entrada": "Mudei de endereço. Como alterar o endereço do CPF?",
+    "estado_esperado": "resposta",
+    "ids_esperados": [
+      "CPF04"
+    ]
+  },
+  {
+    "caso": "Q18",
+    "categoria": "reformulação",
+    "entrada": "Quero subir o nível da minha conta GOV BR.",
+    "estado_esperado": "resposta",
+    "ids_esperados": [
+      "GOV03"
+    ]
+  },
+  {
+    "caso": "Q19",
+    "categoria": "reformulação",
+    "entrada": "Perdi a senha do gov.br, como faço?",
+    "estado_esperado": "resposta",
+    "ids_esperados": [
+      "GOV02"
+    ]
+  },
+  {
+    "caso": "Q20",
+    "categoria": "reformulação",
+    "entrada": "Quais navegadores estão autorizados no gov.br?",
+    "estado_esperado": "resposta",
+    "ids_esperados": [
+      "GOV05"
+    ]
+  },
+  {
+    "caso": "Q21",
+    "categoria": "reformulação",
+    "entrada": "ONDE VOTO???",
+    "estado_esperado": "resposta",
+    "ids_esperados": [
+      "ELE01"
+    ]
+  },
+  {
+    "caso": "Q22",
+    "categoria": "reformulação",
+    "entrada": "Meu titulo esta regular?",
+    "estado_esperado": "resposta",
+    "ids_esperados": [
+      "ELE02"
+    ]
+  },
+  {
+    "caso": "Q23",
+    "categoria": "reformulação",
+    "entrada": "Preciso da certidao criminal eleitoral",
+    "estado_esperado": "resposta",
+    "ids_esperados": [
+      "ELE04"
+    ]
+  },
+  {
+    "caso": "Q24",
+    "categoria": "reformulação",
+    "entrada": "Queria o papel que mostra que estou em dia com as urnas.",
+    "estado_esperado": "resposta",
+    "ids_esperados": [
+      "ELE03"
+    ]
+  },
+  {
+    "caso": "Q25",
+    "categoria": "fora do escopo",
+    "entrada": "Onde renovar a CNH?",
+    "estado_esperado": "sem_base",
+    "ids_esperados": []
+  },
+  {
+    "caso": "Q26",
+    "categoria": "fora do escopo",
+    "entrada": "Como pagar o IPVA do carro?",
+    "estado_esperado": "sem_base",
+    "ids_esperados": []
+  },
+  {
+    "caso": "Q27",
+    "categoria": "fora do escopo",
+    "entrada": "Posso recuperar a senha do meu banco pelo gov.br?",
+    "estado_esperado": "sem_base",
+    "ids_esperados": []
+  },
+  {
+    "caso": "Q28",
+    "categoria": "fora do escopo",
+    "entrada": "Como cancelar meu CPF?",
+    "estado_esperado": "sem_base",
+    "ids_esperados": []
+  },
+  {
+    "caso": "Q29",
+    "categoria": "fora do escopo",
+    "entrada": "Qual o prazo para pedir o primeiro título?",
+    "estado_esperado": "sem_base",
+    "ids_esperados": []
+  },
+  {
+    "caso": "Q30",
+    "categoria": "limite",
+    "entrada": "   ",
+    "estado_esperado": "invalida",
+    "ids_esperados": []
+  },
+  {
+    "caso": "Q31",
+    "categoria": "limite",
+    "entrada": "???",
+    "estado_esperado": "invalida",
+    "ids_esperados": []
+  },
+  {
+    "caso": "Q32",
+    "categoria": "ambiguidade",
+    "entrada": "Certidão eleitoral",
+    "estado_esperado": "ambigua",
+    "ids_esperados": [
+      "ELE03",
+      "ELE04"
+    ]
+  },
+  {
+    "caso": "Q33",
+    "categoria": "ambiguidade",
+    "entrada": "CPF",
+    "estado_esperado": "ambigua",
+    "ids_esperados": [
+      "CPF01",
+      "CPF02",
+      "CPF03",
+      "CPF04",
+      "CPF05"
+    ]
+  },
+  {
+    "caso": "Q34",
+    "categoria": "ambiguidade",
+    "entrada": "Esqueci a senha do gov.br e onde voto?",
+    "estado_esperado": "ambigua",
+    "ids_esperados": [
+      "GOV02",
+      "ELE01"
+    ]
+  },
+  {
+    "caso": "Q35",
+    "categoria": "identificador",
+    "entrada": "gov05",
+    "estado_esperado": "resposta",
+    "ids_esperados": [
+      "GOV05"
+    ]
+  }
+]

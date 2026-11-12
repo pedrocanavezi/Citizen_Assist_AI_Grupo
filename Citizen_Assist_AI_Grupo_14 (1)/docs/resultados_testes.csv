@@ -1,0 +1,141 @@
+﻿caso;categoria;entrada;esperado;ids_esperados;orientacao_esperada;obtido;ids_obtidos;resposta_obtida;acerto;tempo_ms
+Q01;direta;Como faço meu primeiro CPF?;resposta;CPF01;Como faço meu primeiro CPF?;resposta;CPF01;"[CPF01] Como faço meu primeiro CPF?
+Orientação: Abra o serviço de inscrição da Receita Federal. Escolha o canal indicado para o seu caso e siga as instruções para solicitar o CPF.
+Atenção: Consulte a documentação para sua situação e confira se será necessário apresentar documentos após o pedido.
+Fonte: Receita Federal • Inscrever cidadão no CPF | Conferida em 05/11/2026
+https://www.gov.br/pt-br/servicos/inscrever-no-cpf";1;0.109955
+Q02;direta;Como consultar a situação do CPF?;resposta;CPF02;Como consultar a situação do CPF?;resposta;CPF02;"[CPF02] Como consultar a situação do CPF?
+Orientação: Na página da Receita Federal, abra “Consultar Situação do CPF”. A consulta permite ver a situação do cadastro e emitir o comprovante desse resultado.
+Atenção: Preencha os dados solicitados apenas no serviço da Receita.
+Fonte: Receita Federal • Consultar CPF | Conferida em 05/11/2026
+https://www.gov.br/pt-br/servicos/consultar-cadastro-de-pessoas-fisicas";1;0.018578
+Q03;direta;Como imprimir o comprovante de inscrição no CPF?;resposta;CPF03;Como imprimir o comprovante de inscrição no CPF?;resposta;CPF03;"[CPF03] Como imprimir o comprovante de inscrição no CPF?
+Orientação: Abra o serviço “Obter Cartão de CPF”. Selecione a opção de emissão indicada para o seu caso e salve ou imprima o comprovante de inscrição.
+Atenção: O serviço também explica como obter atendimento se você esqueceu o número do CPF.
+Fonte: Receita Federal • Obter cartão de CPF | Conferida em 05/11/2026
+https://www.gov.br/pt-br/servicos/obter-cartao-de-cpf";1;0.015243
+Q04;direta;Como atualizar meu endereço no CPF?;resposta;CPF04;Como atualizar meu endereço no CPF?;resposta;CPF04;"[CPF04] Como atualizar meu endereço no CPF?
+Orientação: Na página “Atualizar CPF”, escolha o canal “Alterar Meu Endereço no CPF” e siga as instruções da Receita Federal.
+Atenção: Para quem já tem a Carteira de Identidade Nacional, endereço é uma das alterações tratadas pela Receita. Outros dados de identificação podem exigir o órgão de identificação civil.
+Fonte: Receita Federal • Atualizar CPF | Conferida em 05/11/2026
+https://www.gov.br/pt-br/servicos/atualizar-cadastro-de-pessoas-fisicas";1;0.011137
+Q05;direta;Como validar um comprovante de situação cadastral do CPF?;resposta;CPF05;Como validar um comprovante de situação cadastral do CPF?;resposta;CPF05;"[CPF05] Como validar um comprovante de situação cadastral do CPF?
+Orientação: Na página de consulta ao CPF, escolha “Validar Comprovante do CPF”. Use essa opção para conferir a autenticidade de um comprovante de situação cadastral já emitido.
+Atenção: Para emitir um comprovante novo, use a opção de consulta da situação cadastral.
+Fonte: Receita Federal • Consultar CPF | Conferida em 05/11/2026
+https://www.gov.br/pt-br/servicos/consultar-cadastro-de-pessoas-fisicas";1;0.08601
+Q06;direta;Como criar minha conta gov.br?;resposta;GOV01;Como criar minha conta gov.br?;resposta;GOV01;"[GOV01] Como criar minha conta gov.br?
+Orientação: No aplicativo gov.br, toque em “Entrar com gov.br”. Pelo site, use a opção de criar conta. Informe o CPF somente no canal oficial e acompanhe as etapas exibidas.
+Atenção: É necessário ter inscrição no CPF para criar a conta.
+Fonte: Governo Digital • Criar sua conta GOV.BR | Conferida em 05/11/2026
+https://www.gov.br/pt-br/servicos/criar-sua-conta-gov.br";1;0.015233
+Q07;direta;Esqueci a senha da conta gov.br. Como recuperar?;resposta;GOV02;Esqueci a senha da conta gov.br. Como recuperar?;resposta;GOV02;"[GOV02] Esqueci a senha da conta gov.br. Como recuperar?
+Orientação: Na tela de acesso do gov.br, informe o CPF e avance. Selecione “Esqueci minha senha” e siga um dos métodos de recuperação oferecidos.
+Atenção: As opções dependem do cadastro. Use a página de ajuda se você perdeu acesso aos meios de recuperação.
+Fonte: Governo Digital • Recuperar senha da conta gov.br | Conferida em 05/11/2026
+https://www.gov.br/governodigital/pt-br/acessibilidade-e-usuario/atendimento-gov.br/duvidas-na-conta-gov.br/recuperar-senha-da-conta-gov.br/recuperar-senha-da-conta-gov.br/";1;0.013461
+Q08;direta;Como aumentar o nível da conta gov.br?;resposta;GOV03;Como aumentar o nível da conta gov.br?;resposta;GOV03;"[GOV03] Como aumentar o nível da conta gov.br?
+Orientação: Abra o aplicativo gov.br e toque em “Aumentar nível” na tela inicial. Escolha um dos métodos de validação apresentados para chegar a prata ou ouro.
+Atenção: Confira na página de níveis quais métodos se aplicam ao nível desejado.
+Fonte: Governo Digital • Níveis da conta gov.br | Conferida em 05/11/2026
+https://www.gov.br/governodigital/pt-br/identidade/conta-gov-br/niveis-da-conta-govbr";1;0.012319
+Q09;direta;Como ativar a verificação em duas etapas no gov.br?;resposta;GOV04;Como ativar a verificação em duas etapas no gov.br?;resposta;GOV04;"[GOV04] Como ativar a verificação em duas etapas no gov.br?
+Orientação: Se a conta for prata ou ouro, abra “Segurança da conta” no aplicativo gov.br e habilite a verificação em duas etapas. O código de acesso é gerado no próprio aplicativo.
+Atenção: Mantenha a data e a hora automáticas habilitadas no celular para o código funcionar.
+Fonte: Governo Digital • Segurança da conta | Conferida em 05/11/2026
+https://www.gov.br/governodigital/pt-br/identidade/conta-gov-br/seguranca-da-conta";1;0.01304
+Q10;direta;Onde vejo os dispositivos autorizados no gov.br?;resposta;GOV05;Onde vejo os dispositivos autorizados no gov.br?;resposta;GOV05;"[GOV05] Onde vejo os dispositivos autorizados no gov.br?
+Orientação: No aplicativo gov.br, abra “Segurança da conta”, depois “Verificação em duas etapas” e “Dispositivos autorizados”. Nessa área você pode consultar os dispositivos e o histórico de acessos.
+Atenção: Navegadores diferentes podem aparecer como dispositivos distintos, mesmo no mesmo aparelho.
+Fonte: Governo Digital • Segurança da conta | Conferida em 05/11/2026
+https://www.gov.br/governodigital/pt-br/identidade/conta-gov-br/seguranca-da-conta";1;0.010996
+Q11;direta;Como consultar meu local de votação?;resposta;ELE01;Como consultar meu local de votação?;resposta;ELE01;"[ELE01] Como consultar meu local de votação?
+Orientação: Abra o e-Título e procure “Onde Votar”. Essa opção mostra o endereço do local de votação. A página do TSE explica como consultar a informação no aplicativo.
+Atenção: Confira o endereço exibido para a sua inscrição no canal da Justiça Eleitoral.
+Fonte: TSE • Perguntas frequentes sobre o e-Título | Conferida em 05/11/2026
+https://www.tse.jus.br/servicos-eleitorais/e-titulo-perguntas-frequentes";1;0.010636
+Q12;direta;Como consultar a situação do título de eleitor?;resposta;ELE02;Como consultar a situação do título de eleitor?;resposta;ELE02;"[ELE02] Como consultar a situação do título de eleitor?
+Orientação: Abra o Autoatendimento Eleitoral pelo site do TSE e selecione a consulta à situação do título. O resultado exibido pela Justiça Eleitoral informa a condição da sua inscrição.
+Atenção: Se a consulta apontar alguma restrição, confirme as providências no atendimento eleitoral.
+Fonte: TSE • Autoatendimento Eleitoral | Conferida em 05/11/2026
+https://www.tse.jus.br/institucional/corregedoria-geral-eleitoral/sistemas-e-servicos-1/titulo-net";1;0.012429
+Q13;direta;Como emitir a certidão de quitação eleitoral?;resposta;ELE03;Como emitir a certidão de quitação eleitoral?;resposta;ELE03;"[ELE03] Como emitir a certidão de quitação eleitoral?
+Orientação: Na página de certidões do TSE, acesse o Autoatendimento Eleitoral e escolha a certidão de quitação eleitoral. O e-Título também permite emitir e validar o documento.
+Atenção: Se faltarem dados para a emissão, procure a zona eleitoral responsável pelo título.
+Fonte: TSE • Certidões | Conferida em 05/11/2026
+https://www.tse.jus.br/servicos-eleitorais/certidoes/certidoes";1;0.011727
+Q14;direta;Como obter a certidão de crimes eleitorais?;resposta;ELE04;Como obter a certidão de crimes eleitorais?;resposta;ELE04;"[ELE04] Como obter a certidão de crimes eleitorais?
+Orientação: No Autoatendimento Eleitoral indicado pelo TSE, escolha a emissão da certidão de crimes eleitorais. Também é possível emitir e validar essa certidão no e-Título.
+Atenção: Se a emissão exigir dados de que você não dispõe, consulte a sua zona eleitoral.
+Fonte: TSE • Certidões | Conferida em 05/11/2026
+https://www.tse.jus.br/servicos-eleitorais/certidoes/certidoes";1;0.010756
+Q15;direta;Onde solicitar o primeiro título de eleitor?;resposta;ELE05;Onde solicitar o primeiro título de eleitor?;resposta;ELE05;"[ELE05] Onde solicitar o primeiro título de eleitor?
+Orientação: Acesse o Autoatendimento Eleitoral a partir da página do TSE e procure a opção de tirar o primeiro título, chamada alistamento eleitoral.
+Atenção: Antes de iniciar, confira a disponibilidade, os documentos e as etapas vigentes na sua região.
+Fonte: TSE • Autoatendimento Eleitoral | Conferida em 05/11/2026
+https://www.tse.jus.br/institucional/corregedoria-geral-eleitoral/sistemas-e-servicos-1/titulo-net";1;0.011017
+Q16;reformulação;Preciso da segunda via do CPF.;resposta;CPF03;Como imprimir o comprovante de inscrição no CPF?;resposta;CPF03;"[CPF03] Como imprimir o comprovante de inscrição no CPF?
+Orientação: Abra o serviço “Obter Cartão de CPF”. Selecione a opção de emissão indicada para o seu caso e salve ou imprima o comprovante de inscrição.
+Atenção: O serviço também explica como obter atendimento se você esqueceu o número do CPF.
+Fonte: Receita Federal • Obter cartão de CPF | Conferida em 05/11/2026
+https://www.gov.br/pt-br/servicos/obter-cartao-de-cpf";1;0.009444
+Q17;reformulação;Mudei de endereço. Como alterar o endereço do CPF?;resposta;CPF04;Como atualizar meu endereço no CPF?;resposta;CPF04;"[CPF04] Como atualizar meu endereço no CPF?
+Orientação: Na página “Atualizar CPF”, escolha o canal “Alterar Meu Endereço no CPF” e siga as instruções da Receita Federal.
+Atenção: Para quem já tem a Carteira de Identidade Nacional, endereço é uma das alterações tratadas pela Receita. Outros dados de identificação podem exigir o órgão de identificação civil.
+Fonte: Receita Federal • Atualizar CPF | Conferida em 05/11/2026
+https://www.gov.br/pt-br/servicos/atualizar-cadastro-de-pessoas-fisicas";1;0.027231
+Q18;reformulação;Quero subir o nível da minha conta GOV BR.;resposta;GOV03;Como aumentar o nível da conta gov.br?;resposta;GOV03;"[GOV03] Como aumentar o nível da conta gov.br?
+Orientação: Abra o aplicativo gov.br e toque em “Aumentar nível” na tela inicial. Escolha um dos métodos de validação apresentados para chegar a prata ou ouro.
+Atenção: Confira na página de níveis quais métodos se aplicam ao nível desejado.
+Fonte: Governo Digital • Níveis da conta gov.br | Conferida em 05/11/2026
+https://www.gov.br/governodigital/pt-br/identidade/conta-gov-br/niveis-da-conta-govbr";1;0.051788
+Q19;reformulação;Perdi a senha do gov.br, como faço?;resposta;GOV02;Esqueci a senha da conta gov.br. Como recuperar?;resposta;GOV02;"[GOV02] Esqueci a senha da conta gov.br. Como recuperar?
+Orientação: Na tela de acesso do gov.br, informe o CPF e avance. Selecione “Esqueci minha senha” e siga um dos métodos de recuperação oferecidos.
+Atenção: As opções dependem do cadastro. Use a página de ajuda se você perdeu acesso aos meios de recuperação.
+Fonte: Governo Digital • Recuperar senha da conta gov.br | Conferida em 05/11/2026
+https://www.gov.br/governodigital/pt-br/acessibilidade-e-usuario/atendimento-gov.br/duvidas-na-conta-gov.br/recuperar-senha-da-conta-gov.br/recuperar-senha-da-conta-gov.br/";1;0.018818
+Q20;reformulação;Quais navegadores estão autorizados no gov.br?;resposta;GOV05;Onde vejo os dispositivos autorizados no gov.br?;resposta;GOV05;"[GOV05] Onde vejo os dispositivos autorizados no gov.br?
+Orientação: No aplicativo gov.br, abra “Segurança da conta”, depois “Verificação em duas etapas” e “Dispositivos autorizados”. Nessa área você pode consultar os dispositivos e o histórico de acessos.
+Atenção: Navegadores diferentes podem aparecer como dispositivos distintos, mesmo no mesmo aparelho.
+Fonte: Governo Digital • Segurança da conta | Conferida em 05/11/2026
+https://www.gov.br/governodigital/pt-br/identidade/conta-gov-br/seguranca-da-conta";1;0.049174
+Q21;reformulação;ONDE VOTO???;resposta;ELE01;Como consultar meu local de votação?;resposta;ELE01;"[ELE01] Como consultar meu local de votação?
+Orientação: Abra o e-Título e procure “Onde Votar”. Essa opção mostra o endereço do local de votação. A página do TSE explica como consultar a informação no aplicativo.
+Atenção: Confira o endereço exibido para a sua inscrição no canal da Justiça Eleitoral.
+Fonte: TSE • Perguntas frequentes sobre o e-Título | Conferida em 05/11/2026
+https://www.tse.jus.br/servicos-eleitorais/e-titulo-perguntas-frequentes";1;0.009865
+Q22;reformulação;Meu titulo esta regular?;resposta;ELE02;Como consultar a situação do título de eleitor?;resposta;ELE02;"[ELE02] Como consultar a situação do título de eleitor?
+Orientação: Abra o Autoatendimento Eleitoral pelo site do TSE e selecione a consulta à situação do título. O resultado exibido pela Justiça Eleitoral informa a condição da sua inscrição.
+Atenção: Se a consulta apontar alguma restrição, confirme as providências no atendimento eleitoral.
+Fonte: TSE • Autoatendimento Eleitoral | Conferida em 05/11/2026
+https://www.tse.jus.br/institucional/corregedoria-geral-eleitoral/sistemas-e-servicos-1/titulo-net";1;0.008423
+Q23;reformulação;Preciso da certidao criminal eleitoral;resposta;ELE04;Como obter a certidão de crimes eleitorais?;resposta;ELE04;"[ELE04] Como obter a certidão de crimes eleitorais?
+Orientação: No Autoatendimento Eleitoral indicado pelo TSE, escolha a emissão da certidão de crimes eleitorais. Também é possível emitir e validar essa certidão no e-Título.
+Atenção: Se a emissão exigir dados de que você não dispõe, consulte a sua zona eleitoral.
+Fonte: TSE • Certidões | Conferida em 05/11/2026
+https://www.tse.jus.br/servicos-eleitorais/certidoes/certidoes";1;0.009354
+Q24;reformulação;Queria o papel que mostra que estou em dia com as urnas.;resposta;ELE03;Como emitir a certidão de quitação eleitoral?;sem_base;;A base não tem orientação suficiente para essa pergunta. Tente outra formulação ou escolha um tema.;0;0.010996
+Q25;fora do escopo;Onde renovar a CNH?;sem_base;;sem_base;sem_base;;A base não tem orientação suficiente para essa pergunta. Tente outra formulação ou escolha um tema.;1;0.00615
+Q26;fora do escopo;Como pagar o IPVA do carro?;sem_base;;sem_base;sem_base;;A base não tem orientação suficiente para essa pergunta. Tente outra formulação ou escolha um tema.;1;0.00684
+Q27;fora do escopo;Posso recuperar a senha do meu banco pelo gov.br?;sem_base;;sem_base;sem_base;;A base não tem orientação suficiente para essa pergunta. Tente outra formulação ou escolha um tema.;1;0.009824
+Q28;fora do escopo;Como cancelar meu CPF?;sem_base;;sem_base;sem_base;;A base não tem orientação suficiente para essa pergunta. Tente outra formulação ou escolha um tema.;1;0.005778
+Q29;fora do escopo;Qual o prazo para pedir o primeiro título?;sem_base;;sem_base;sem_base;;A base não tem orientação suficiente para essa pergunta. Tente outra formulação ou escolha um tema.;1;0.009534
+Q30;limite;   ;invalida;;invalida;invalida;;Digite uma pergunta com palavras, ou escolha um número da lista.;1;0.00044
+Q31;limite;???;invalida;;invalida;invalida;;Digite uma pergunta com palavras, ou escolha um número da lista.;1;0.000801
+Q32;ambiguidade;Certidão eleitoral;ambigua;ELE03 ELE04;Como emitir a certidão de quitação eleitoral? / Como obter a certidão de crimes eleitorais?;ambigua;ELE03 ELE04;"Sua pergunta pode ter mais de uma resposta. Escolha um dos assuntos abaixo.
+Como emitir a certidão de quitação eleitoral?
+Como obter a certidão de crimes eleitorais?";1;0.012819
+Q33;ambiguidade;CPF;ambigua;CPF01 CPF02 CPF03 CPF04 CPF05;Como faço meu primeiro CPF? / Como consultar a situação do CPF? / Como imprimir o comprovante de inscrição no CPF? / Como atualizar meu endereço no CPF? / Como validar um comprovante de situação cadastral do CPF?;ambigua;CPF01 CPF02 CPF03 CPF04 CPF05;"Sua pergunta pode ter mais de uma resposta. Escolha um dos assuntos abaixo.
+Como faço meu primeiro CPF?
+Como consultar a situação do CPF?
+Como imprimir o comprovante de inscrição no CPF?
+Como atualizar meu endereço no CPF?
+Como validar um comprovante de situação cadastral do CPF?";1;0.021863
+Q34;ambiguidade;Esqueci a senha do gov.br e onde voto?;ambigua;GOV02 ELE01;Esqueci a senha da conta gov.br. Como recuperar? / Como consultar meu local de votação?;ambigua;GOV02 ELE01;"Sua pergunta pode ter mais de uma resposta. Escolha um dos assuntos abaixo.
+Esqueci a senha da conta gov.br. Como recuperar?
+Como consultar meu local de votação?";1;0.018157
+Q35;identificador;gov05;resposta;GOV05;Onde vejo os dispositivos autorizados no gov.br?;resposta;GOV05;"[GOV05] Onde vejo os dispositivos autorizados no gov.br?
+Orientação: No aplicativo gov.br, abra “Segurança da conta”, depois “Verificação em duas etapas” e “Dispositivos autorizados”. Nessa área você pode consultar os dispositivos e o histórico de acessos.
+Atenção: Navegadores diferentes podem aparecer como dispositivos distintos, mesmo no mesmo aparelho.
+Fonte: Governo Digital • Segurança da conta | Conferida em 05/11/2026
+https://www.gov.br/governodigital/pt-br/identidade/conta-gov-br/seguranca-da-conta";1;0.004867

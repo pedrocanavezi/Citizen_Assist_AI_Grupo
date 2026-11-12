@@ -1,0 +1,19 @@
+{
+  "consultas": 35,
+  "acertos": 34,
+  "taxa_percentual": 97.14,
+  "tempo_medio_ms": 0.018706,
+  "tarefas": 5,
+  "tarefas_concluidas": 5,
+  "acoes_por_tarefa": 3,
+  "categorias": {
+    "direta": 15,
+    "reformulação": 9,
+    "fora do escopo": 5,
+    "limite": 2,
+    "ambiguidade": 3,
+    "identificador": 1
+  },
+  "python": "3.12.14",
+  "sistema": "Linux"
+}

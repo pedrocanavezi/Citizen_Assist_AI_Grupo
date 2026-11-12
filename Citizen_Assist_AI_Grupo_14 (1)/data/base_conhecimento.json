@@ -1,0 +1,354 @@
+[
+  {
+    "id": "CPF01",
+    "tema": "Documentação e CPF",
+    "subtema": "Inscrição e comprovantes",
+    "pergunta": "Como faço meu primeiro CPF?",
+    "palavras_chave": [
+      "primeiro CPF",
+      "fazer CPF",
+      "tirar CPF",
+      "inscrever no CPF",
+      "inscrição inicial CPF",
+      "cadastrar CPF pela primeira vez"
+    ],
+    "orientacao": "Abra o serviço de inscrição da Receita Federal. Escolha o canal indicado para o seu caso e siga as instruções para solicitar o CPF.",
+    "aviso": "Consulte a documentação para sua situação e confira se será necessário apresentar documentos após o pedido.",
+    "fonte": "Receita Federal • Inscrever cidadão no CPF",
+    "url": "https://www.gov.br/pt-br/servicos/inscrever-no-cpf",
+    "verificacao": "2026-11-05",
+    "relacionados": [
+      "CPF03",
+      "CPF02",
+      "GOV01"
+    ]
+  },
+  {
+    "id": "CPF02",
+    "tema": "Documentação e CPF",
+    "subtema": "Consulta e atualização",
+    "pergunta": "Como consultar a situação do CPF?",
+    "palavras_chave": [
+      "situação cadastral CPF",
+      "situação CPF",
+      "CPF regular",
+      "consultar CPF",
+      "CPF está ativo",
+      "verificar situação CPF"
+    ],
+    "orientacao": "Na página da Receita Federal, abra “Consultar Situação do CPF”. A consulta permite ver a situação do cadastro e emitir o comprovante desse resultado.",
+    "aviso": "Preencha os dados solicitados apenas no serviço da Receita.",
+    "fonte": "Receita Federal • Consultar CPF",
+    "url": "https://www.gov.br/pt-br/servicos/consultar-cadastro-de-pessoas-fisicas",
+    "verificacao": "2026-11-05",
+    "relacionados": [
+      "CPF05",
+      "CPF04",
+      "CPF03"
+    ]
+  },
+  {
+    "id": "CPF03",
+    "tema": "Documentação e CPF",
+    "subtema": "Inscrição e comprovantes",
+    "pergunta": "Como imprimir o comprovante de inscrição no CPF?",
+    "palavras_chave": [
+      "comprovante inscrição CPF",
+      "cartão CPF",
+      "segunda via CPF",
+      "imprimir CPF",
+      "2 via CPF",
+      "emitir cartão CPF"
+    ],
+    "orientacao": "Abra o serviço “Obter Cartão de CPF”. Selecione a opção de emissão indicada para o seu caso e salve ou imprima o comprovante de inscrição.",
+    "aviso": "O serviço também explica como obter atendimento se você esqueceu o número do CPF.",
+    "fonte": "Receita Federal • Obter cartão de CPF",
+    "url": "https://www.gov.br/pt-br/servicos/obter-cartao-de-cpf",
+    "verificacao": "2026-11-05",
+    "relacionados": [
+      "CPF01",
+      "CPF02",
+      "CPF05"
+    ]
+  },
+  {
+    "id": "CPF04",
+    "tema": "Documentação e CPF",
+    "subtema": "Consulta e atualização",
+    "pergunta": "Como atualizar meu endereço no CPF?",
+    "palavras_chave": [
+      "endereço CPF",
+      "atualizar endereço CPF",
+      "mudei endereço CPF",
+      "alterar endereço CPF",
+      "corrigir endereço CPF"
+    ],
+    "orientacao": "Na página “Atualizar CPF”, escolha o canal “Alterar Meu Endereço no CPF” e siga as instruções da Receita Federal.",
+    "aviso": "Para quem já tem a Carteira de Identidade Nacional, endereço é uma das alterações tratadas pela Receita. Outros dados de identificação podem exigir o órgão de identificação civil.",
+    "fonte": "Receita Federal • Atualizar CPF",
+    "url": "https://www.gov.br/pt-br/servicos/atualizar-cadastro-de-pessoas-fisicas",
+    "verificacao": "2026-11-05",
+    "relacionados": [
+      "CPF02",
+      "CPF03",
+      "GOV01"
+    ]
+  },
+  {
+    "id": "CPF05",
+    "tema": "Documentação e CPF",
+    "subtema": "Inscrição e comprovantes",
+    "pergunta": "Como validar um comprovante de situação cadastral do CPF?",
+    "palavras_chave": [
+      "validar comprovante CPF",
+      "autenticidade comprovante CPF",
+      "conferir autenticidade CPF",
+      "comprovante situação cadastral verdadeiro",
+      "autenticar comprovante CPF"
+    ],
+    "orientacao": "Na página de consulta ao CPF, escolha “Validar Comprovante do CPF”. Use essa opção para conferir a autenticidade de um comprovante de situação cadastral já emitido.",
+    "aviso": "Para emitir um comprovante novo, use a opção de consulta da situação cadastral.",
+    "fonte": "Receita Federal • Consultar CPF",
+    "url": "https://www.gov.br/pt-br/servicos/consultar-cadastro-de-pessoas-fisicas",
+    "verificacao": "2026-11-05",
+    "relacionados": [
+      "CPF02",
+      "CPF03",
+      "CPF04"
+    ]
+  },
+  {
+    "id": "GOV01",
+    "tema": "Conta gov.br",
+    "subtema": "Acesso à conta",
+    "pergunta": "Como criar minha conta gov.br?",
+    "palavras_chave": [
+      "criar conta govbr",
+      "fazer cadastro govbr",
+      "cadastrar conta govbr",
+      "primeiro acesso govbr",
+      "abrir conta govbr"
+    ],
+    "orientacao": "No aplicativo gov.br, toque em “Entrar com gov.br”. Pelo site, use a opção de criar conta. Informe o CPF somente no canal oficial e acompanhe as etapas exibidas.",
+    "aviso": "É necessário ter inscrição no CPF para criar a conta.",
+    "fonte": "Governo Digital • Criar sua conta GOV.BR",
+    "url": "https://www.gov.br/pt-br/servicos/criar-sua-conta-gov.br",
+    "verificacao": "2026-11-05",
+    "relacionados": [
+      "GOV02",
+      "GOV03",
+      "CPF01"
+    ]
+  },
+  {
+    "id": "GOV02",
+    "tema": "Conta gov.br",
+    "subtema": "Acesso à conta",
+    "pergunta": "Esqueci a senha da conta gov.br. Como recuperar?",
+    "palavras_chave": [
+      "esqueci senha govbr",
+      "recuperar senha govbr",
+      "perdi senha govbr",
+      "redefinir senha govbr",
+      "esqueci senha governo"
+    ],
+    "orientacao": "Na tela de acesso do gov.br, informe o CPF e avance. Selecione “Esqueci minha senha” e siga um dos métodos de recuperação oferecidos.",
+    "aviso": "As opções dependem do cadastro. Use a página de ajuda se você perdeu acesso aos meios de recuperação.",
+    "fonte": "Governo Digital • Recuperar senha da conta gov.br",
+    "url": "https://www.gov.br/governodigital/pt-br/acessibilidade-e-usuario/atendimento-gov.br/duvidas-na-conta-gov.br/recuperar-senha-da-conta-gov.br/recuperar-senha-da-conta-gov.br/",
+    "verificacao": "2026-11-05",
+    "relacionados": [
+      "GOV04",
+      "GOV05",
+      "GOV01"
+    ]
+  },
+  {
+    "id": "GOV03",
+    "tema": "Conta gov.br",
+    "subtema": "Acesso à conta",
+    "pergunta": "Como aumentar o nível da conta gov.br?",
+    "palavras_chave": [
+      "aumentar nível govbr",
+      "conta prata govbr",
+      "conta ouro govbr",
+      "subir nível govbr",
+      "passar bronze prata",
+      "obter selo ouro"
+    ],
+    "orientacao": "Abra o aplicativo gov.br e toque em “Aumentar nível” na tela inicial. Escolha um dos métodos de validação apresentados para chegar a prata ou ouro.",
+    "aviso": "Confira na página de níveis quais métodos se aplicam ao nível desejado.",
+    "fonte": "Governo Digital • Níveis da conta gov.br",
+    "url": "https://www.gov.br/governodigital/pt-br/identidade/conta-gov-br/niveis-da-conta-govbr",
+    "verificacao": "2026-11-05",
+    "relacionados": [
+      "GOV04",
+      "GOV01",
+      "GOV02"
+    ]
+  },
+  {
+    "id": "GOV04",
+    "tema": "Conta gov.br",
+    "subtema": "Segurança",
+    "pergunta": "Como ativar a verificação em duas etapas no gov.br?",
+    "palavras_chave": [
+      "ativar duas etapas govbr",
+      "habilitar verificação duas etapas",
+      "ativar 2fa govbr",
+      "ativar duplo fator govbr",
+      "proteger conta govbr duas etapas"
+    ],
+    "orientacao": "Se a conta for prata ou ouro, abra “Segurança da conta” no aplicativo gov.br e habilite a verificação em duas etapas. O código de acesso é gerado no próprio aplicativo.",
+    "aviso": "Mantenha a data e a hora automáticas habilitadas no celular para o código funcionar.",
+    "fonte": "Governo Digital • Segurança da conta",
+    "url": "https://www.gov.br/governodigital/pt-br/identidade/conta-gov-br/seguranca-da-conta",
+    "verificacao": "2026-11-05",
+    "relacionados": [
+      "GOV05",
+      "GOV03",
+      "GOV02"
+    ]
+  },
+  {
+    "id": "GOV05",
+    "tema": "Conta gov.br",
+    "subtema": "Segurança",
+    "pergunta": "Onde vejo os dispositivos autorizados no gov.br?",
+    "palavras_chave": [
+      "dispositivos autorizados govbr",
+      "navegadores autorizados govbr",
+      "ver aparelhos autorizados",
+      "histórico acessos govbr",
+      "listar dispositivos confiáveis"
+    ],
+    "orientacao": "No aplicativo gov.br, abra “Segurança da conta”, depois “Verificação em duas etapas” e “Dispositivos autorizados”. Nessa área você pode consultar os dispositivos e o histórico de acessos.",
+    "aviso": "Navegadores diferentes podem aparecer como dispositivos distintos, mesmo no mesmo aparelho.",
+    "fonte": "Governo Digital • Segurança da conta",
+    "url": "https://www.gov.br/governodigital/pt-br/identidade/conta-gov-br/seguranca-da-conta",
+    "verificacao": "2026-11-05",
+    "relacionados": [
+      "GOV04",
+      "GOV02",
+      "GOV03"
+    ]
+  },
+  {
+    "id": "ELE01",
+    "tema": "Serviços eleitorais",
+    "subtema": "Título e votação",
+    "pergunta": "Como consultar meu local de votação?",
+    "palavras_chave": [
+      "local votação",
+      "onde votar",
+      "onde voto",
+      "onde vou votar",
+      "endereço seção eleitoral",
+      "escola votação",
+      "lugar votar"
+    ],
+    "orientacao": "Abra o e-Título e procure “Onde Votar”. Essa opção mostra o endereço do local de votação. A página do TSE explica como consultar a informação no aplicativo.",
+    "aviso": "Confira o endereço exibido para a sua inscrição no canal da Justiça Eleitoral.",
+    "fonte": "TSE • Perguntas frequentes sobre o e-Título",
+    "url": "https://www.tse.jus.br/servicos-eleitorais/e-titulo-perguntas-frequentes",
+    "verificacao": "2026-11-05",
+    "relacionados": [
+      "ELE02",
+      "ELE03",
+      "ELE05"
+    ]
+  },
+  {
+    "id": "ELE02",
+    "tema": "Serviços eleitorais",
+    "subtema": "Título e votação",
+    "pergunta": "Como consultar a situação do título de eleitor?",
+    "palavras_chave": [
+      "situação título eleitor",
+      "título regular",
+      "consultar situação eleitoral",
+      "título cancelado",
+      "situação título",
+      "título está ativo"
+    ],
+    "orientacao": "Abra o Autoatendimento Eleitoral pelo site do TSE e selecione a consulta à situação do título. O resultado exibido pela Justiça Eleitoral informa a condição da sua inscrição.",
+    "aviso": "Se a consulta apontar alguma restrição, confirme as providências no atendimento eleitoral.",
+    "fonte": "TSE • Autoatendimento Eleitoral",
+    "url": "https://www.tse.jus.br/institucional/corregedoria-geral-eleitoral/sistemas-e-servicos-1/titulo-net",
+    "verificacao": "2026-11-05",
+    "relacionados": [
+      "ELE01",
+      "ELE03",
+      "ELE05"
+    ]
+  },
+  {
+    "id": "ELE03",
+    "tema": "Serviços eleitorais",
+    "subtema": "Certidões eleitorais",
+    "pergunta": "Como emitir a certidão de quitação eleitoral?",
+    "palavras_chave": [
+      "certidão quitação eleitoral",
+      "comprovar quitação eleitoral",
+      "quite justiça eleitoral",
+      "comprovante quitação",
+      "certidão estar em dia justiça eleitoral"
+    ],
+    "orientacao": "Na página de certidões do TSE, acesse o Autoatendimento Eleitoral e escolha a certidão de quitação eleitoral. O e-Título também permite emitir e validar o documento.",
+    "aviso": "Se faltarem dados para a emissão, procure a zona eleitoral responsável pelo título.",
+    "fonte": "TSE • Certidões",
+    "url": "https://www.tse.jus.br/servicos-eleitorais/certidoes/certidoes",
+    "verificacao": "2026-11-05",
+    "relacionados": [
+      "ELE04",
+      "ELE02",
+      "ELE01"
+    ]
+  },
+  {
+    "id": "ELE04",
+    "tema": "Serviços eleitorais",
+    "subtema": "Certidões eleitorais",
+    "pergunta": "Como obter a certidão de crimes eleitorais?",
+    "palavras_chave": [
+      "certidão crimes eleitorais",
+      "certidão crime eleitoral",
+      "antecedentes crimes eleitorais",
+      "certidão criminal eleitoral",
+      "emitir crimes eleitorais"
+    ],
+    "orientacao": "No Autoatendimento Eleitoral indicado pelo TSE, escolha a emissão da certidão de crimes eleitorais. Também é possível emitir e validar essa certidão no e-Título.",
+    "aviso": "Se a emissão exigir dados de que você não dispõe, consulte a sua zona eleitoral.",
+    "fonte": "TSE • Certidões",
+    "url": "https://www.tse.jus.br/servicos-eleitorais/certidoes/certidoes",
+    "verificacao": "2026-11-05",
+    "relacionados": [
+      "ELE03",
+      "ELE02",
+      "ELE01"
+    ]
+  },
+  {
+    "id": "ELE05",
+    "tema": "Serviços eleitorais",
+    "subtema": "Título e votação",
+    "pergunta": "Onde solicitar o primeiro título de eleitor?",
+    "palavras_chave": [
+      "primeiro título",
+      "tirar título eleitor",
+      "fazer título eleitor",
+      "alistamento eleitoral",
+      "solicitar título primeira vez"
+    ],
+    "orientacao": "Acesse o Autoatendimento Eleitoral a partir da página do TSE e procure a opção de tirar o primeiro título, chamada alistamento eleitoral.",
+    "aviso": "Antes de iniciar, confira a disponibilidade, os documentos e as etapas vigentes na sua região.",
+    "fonte": "TSE • Autoatendimento Eleitoral",
+    "url": "https://www.tse.jus.br/institucional/corregedoria-geral-eleitoral/sistemas-e-servicos-1/titulo-net",
+    "verificacao": "2026-11-05",
+    "relacionados": [
+      "ELE02",
+      "ELE01",
+      "ELE03"
+    ]
+  }
+]
